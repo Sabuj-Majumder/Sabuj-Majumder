@@ -1,48 +1,105 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Welcome+to+My+GitHub+Profile!;AI%2FML+Developer+%7C+Data+Scientist;Building+Intelligent+Solutions" alt="Typing SVG" />
+
+<!-- SVG Banner -->
+<svg width="860" height="160" viewBox="0 0 860 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="100%" style="stop-color:#0f1729"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#00D9FF"/>
+      <stop offset="100%" style="stop-color:#00D9FF;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="160" fill="url(#bg)" rx="12"/>
+  <rect x="60" y="130" width="740" height="1" fill="url(#line)" opacity="0.4"/>
+  <rect x="60" y="28" width="740" height="1" fill="url(#line)" opacity="0.2"/>
+  <text x="430" y="75" font-family="'Courier New', monospace" font-size="11" fill="#00D9FF" opacity="0.5" text-anchor="middle" letter-spacing="8">AI / ML / ENGINEERING</text>
+  <text x="430" y="108" font-family="Georgia, serif" font-size="36" fill="#FFFFFF" text-anchor="middle" font-weight="300" letter-spacing="3">Sabuj Majumder</text>
+  <circle cx="200" cy="80" r="1.5" fill="#00D9FF" opacity="0.6"/>
+  <circle cx="660" cy="80" r="1.5" fill="#00D9FF" opacity="0.6"/>
+  <circle cx="185" cy="80" r="1" fill="#00D9FF" opacity="0.3"/>
+  <circle cx="675" cy="80" r="1" fill="#00D9FF" opacity="0.3"/>
+</svg>
+
+<br/>
+
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=16&duration=3000&pause=1500&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Building+Intelligent+Systems+from+the+Ground+Up;Fine-tuning+LLMs+%7C+Deep+Learning+%7C+Automation;Turning+Data+into+Decisions" alt="Typing SVG" />
+
 </div>
+
+---
+
+<!-- About -->
+## `> whoami`
+
+```python
+sabuj = {
+    "role"      : "AI/ML Developer @ Softvence Agency",
+    "location"  : "Open to Remote Collaborations",
+    "focus"     : ["LLM Fine-tuning", "Deep Learning", "MLOps", "Automation"],
+    "languages" : ["Python", "SQL", "Bash", "JavaScript"],
+    "philosophy": "Build systems that don't just compute — they understand.",
+}
+```
+
+---
+
+## `> stack --full`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="350px" alt="Developer GIF" />
+
+**Core AI/ML**
+
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=flat-square&logo=python&logoColor=00D9FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0f?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0f?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0a0f?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![Keras](https://img.shields.io/badge/Keras-0a0a0f?style=flat-square&logo=keras&logoColor=D00000)
+![XGBoost](https://img.shields.io/badge/XGBoost-0a0a0f?style=flat-square&logo=xgboost&logoColor=00A8E1)
+
+**Data & Analysis**
+
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0f?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0a0a0f?style=flat-square&logo=numpy&logoColor=013243)
+![Jupyter](https://img.shields.io/badge/Jupyter-0a0a0f?style=flat-square&logo=jupyter&logoColor=F37726)
+![Google Colab](https://img.shields.io/badge/Colab-0a0a0f?style=flat-square&logo=googlecolab&logoColor=F9AB00)
+
+**Infrastructure & Tooling**
+
+![n8n](https://img.shields.io/badge/n8n-0a0a0f?style=flat-square&logo=n8n&logoColor=EB0029)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0f?style=flat-square&logo=postgresql&logoColor=316192)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0f?style=flat-square&logo=mongodb&logoColor=47A248)
+![Git](https://img.shields.io/badge/Git-0a0a0f?style=flat-square&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VSCode-0a0a0f?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+
 </div>
 
 ---
 
-## 👋 About Me
-
-<div align="left">
-
-I'm **Sabuj Majumder**, an **AI/ML Developer** at **Softvence Agency**, passionate about building intelligent systems and creating transformative machine learning solutions. With expertise in Python and advanced data science techniques, I specialize in model training, fine-tuning, and automation workflows that drive real-world impact.
-
-**🎯 Mission:** To leverage artificial intelligence and machine learning to solve complex problems and create meaningful applications.
-
-</div>
-
----
-
-## 💼 Professional Overview
+## `> current --work`
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-**Current Role:**
-- 🤖 AI/ML Developer at Softvence Agency
-- 🔬 Machine Learning Engineer
-- 📊 Data Science Specialist
+**🧠 LLM Engineering**
+Fine-tuning and aligning large language models for domain-specific tasks. Working with LoRA, QLoRA, and PEFT techniques to make powerful models efficient and precise.
 
-**Location:**
-- 🌍 Open to Collaborations
+**📊 Data Science**
+End-to-end data workflows — from raw ingestion to insight. EDA, feature engineering, statistical modeling, and interpretability.
 
 </td>
-<td width="50%">
+<td valign="top" width="50%">
 
-**Expertise Areas:**
-- 🧠 Deep Learning & ML
-- 📈 Data Analysis & EDA
-- 🔧 Model Training & Fine-tuning
-- ⚙️ n8n Automation
-- 🐍 Python Development
+**⚙️ MLOps & Automation**
+Building production-grade pipelines with n8n, REST APIs, and orchestration frameworks. Infrastructure that scales without friction.
+
+**👁️ Computer Vision & NLP**
+Applied deep learning across modalities — image classification, object detection, text understanding, and generative systems.
 
 </td>
 </tr>
@@ -50,237 +107,49 @@ I'm **Sabuj Majumder**, an **AI/ML Developer** at **Softvence Agency**, passiona
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
-### 💻 Programming Languages
-<div align="left">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-</div>
-
-### 🤖 Machine Learning & AI
-<div align="left">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-00A8E1?style=for-the-badge&logo=xgboost&logoColor=white)
-
-</div>
-
-### 📊 Data Science & Analysis
-<div align="left">
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
-### 🔧 Tools & Platforms
-<div align="left">
-
-![n8n](https://img.shields.io/badge/n8n-EB0029?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-
-</div>
-
-### 💾 Databases & Cloud
-<div align="left">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Current Focus & Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔬 Machine Learning Development
-- Building & optimizing ML models
-- Deep learning architectures
-- Transfer learning & fine-tuning
-- Model evaluation & validation
-
-</td>
-<td width="50%">
-
-### 🤖 Automation & Workflows
-- n8n workflow automation
-- API integration & orchestration
-- Process automation
-- Data pipeline development
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 Data Science Excellence
-- Exploratory Data Analysis (EDA)
-- Data preprocessing & cleaning
-- Feature engineering
-- Statistical analysis
-
-</td>
-<td width="50%">
-
-### 🧠 Advanced AI Techniques
-- NLP & text processing
-- Computer Vision
-- Prompt engineering
-- LLM fine-tuning
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 GitHub Statistics
+## `> stats --github`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabuj-Majumder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sabuj-Majumder&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&text_color=AAAAAA&icon_color=00D9FF&bg_color=0a0a0f" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabuj-Majumder&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=AAAAAA&bg_color=0a0a0f" />
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabuj-Majumder&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=FFFFFF)
-
-</div>
-
-<div align="center">
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sabuj-Majumder&theme=tokyo-night&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=FFFFFF&line=00D9FF&point=FF006E)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sabuj-Majumder&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" />
 
 </div>
 
 ---
 
-## 🏆 Key Achievements & Highlights
-
-<div align="center">
-
-| 🎯 | Expertise | 📊 | Specialization |
-|:---:|:---:|:---:|:---:|
-| 🤖 | ML Model Development | 📈 | Data Analysis |
-| 🧠 | Deep Learning | ⚙️ | Automation |
-| 🔍 | Feature Engineering | 🎯 | Model Optimization |
-| 📚 | Continuous Learning | 🌟 | Innovation |
-
-</div>
-
----
-
-## 💡 What I'm Currently Learning
-
-<div align="left">
-
-- 🧠 **Advanced LLM Fine-tuning** - Optimizing large language models for specific tasks
-- 🏗️ **MLOps & Scalability** - Building production-ready ML systems
-- 🎨 **Prompt Engineering** - Mastering AI prompt design and optimization
-- 🔗 **Edge AI** - Deploying models on edge devices
-- 📡 **Advanced NLP** - State-of-the-art natural language processing techniques
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabujmajumder100@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
-
-</div>
-
----
-
-## 📫 Get In Touch
-
-<div align="center">
-
-I'm always interested in discussing **AI/ML projects**, **collaborations**, and **innovation opportunities**!
-
-Feel free to reach out:
-- 📧 **Email:** [sabujmajumder100@gmail.com](mailto:sabujmajumder100@gmail.com)
-- 💬 **Open to:** Collaborations, Freelance Projects, Full-time Opportunities
-
-</div>
-
----
-
-## 🎓 Featured Repositories
-
-<div align="left">
-
-Check out my repositories below to see my work in action! I regularly contribute to projects involving:
-
-- 🤖 Machine Learning Model Development
-- 📊 Data Analysis & Visualization
-- 🔧 Automation Workflows
-- 🐍 Python Utilities
-- 🌐 Full-stack Applications
-
-[Explore All Repositories](https://github.com/Sabuj-Majumder?tab=repositories)
-
-</div>
-
----
-
-## 💻 Development Workflow
-
-<div align="center">
+## `> learning --active`
 
 ```
-Research → Design → Development → Testing → Deployment → Monitoring
-   🔬        🎨        💻         ✅         🚀          📊
+[ ████████████████░░░░ ] LLM Fine-tuning & Alignment
+[ ██████████████░░░░░░ ] MLOps & Model Serving at Scale
+[ ████████████░░░░░░░░ ] Edge AI & Model Compression
+[ ██████████████████░░ ] Advanced Prompt Engineering
+[ ████████████░░░░░░░░ ] Agentic Workflows & Tool Use
 ```
 
-</div>
-
 ---
 
-## 🎉 Fun Facts
+## `> contact --open`
 
 <div align="center">
 
-> 💭 *"Data is the new oil, and AI is the engine that transforms it into actionable intelligence!"*
+[![Email](https://img.shields.io/badge/sabujmajumder100@gmail.com-0a0a0f?style=flat-square&logo=gmail&logoColor=00D9FF)](mailto:sabujmajumder100@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=flat-square&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/your-profile)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0f?style=flat-square&logo=firefox&logoColor=00D9FF)](https://your-portfolio.com)
 
-> 🚀 *"I believe in building solutions that don't just work, but inspire!"*
+<br/>
 
-> 🌟 *"Every line of code is an opportunity to learn something new."*
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you find something useful, don't forget to star my repositories!
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSabuj-Majumder&countColor=%2300D9FF)](https://visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSabuj-Majumder)
+*Available for AI/ML collaborations, research partnerships, and engineering contracts.*
 
 </div>
 
@@ -288,8 +157,10 @@ Research → Design → Development → Testing → Deployment → Monitoring
 
 <div align="center">
 
-**Built with 💙 by Sabuj Majumder**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=12&duration=4000&pause=2000&color=444444&center=true&vCenter=true&width=500&lines=%22Models+don't+think+—+engineers+do.%22" alt="Quote" />
 
-*Last Updated: March 5, 2026*
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Sabuj-Majumder&color=00D9FF&style=flat-square&label=profile+views)](https://github.com/Sabuj-Majumder)
 
 </div>
