@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:030712,50:0c1a3a,100:030712&height=220&section=header&text=Sabuj%20Majumder&fontSize=60&fontColor=00D9FF&fontAlignY=40&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Data%20Scientist&descAlignY=62&descColor=94a3b8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:030712,50:0c1a3a,100:030712&height=220&section=header&text=Sabuj%20Majumder&fontSize=60&fontColor=00D9FF&fontAlignY=40&desc=AI%20Developer%20%7C%20ML%20Engineer%20%7C%20Data%20Scientist&descAlignY=62&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1400&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Engineer+Trainee+%40+CHOWA+GIKEN+%F0%9F%87%AF%F0%9F%87%B5;Fine-tuning+LLMs+%7C+Computer+Vision+%7C+NLP;Building+RAG+Systems+%26+Deep+Learning+Pipelines;BSc+CSE+%40+BRAC+University+%E2%80%94+2026;Open+to+Collaborations+%26+Research+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1400&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Developer+%40+Softvence+Agency;LLM+Fine-tuning+%7C+n8n+Automation+%7C+MLOps;Building+RAG+Systems+%26+Deep+Learning+Pipelines;BSc+CSE+%40+BRAC+University+%E2%80%94+2026;Open+to+Collaborations+%26+Research+Opportunities" alt="Typing SVG" />
+
+<br/>
+
+
 
 <br/><br/>
 
@@ -25,17 +29,17 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="Coding"/>
 
-I'm **Sabuj Majumder**, an **AI Engineer Trainee at CHOWA GIKEN Corporation (Japan)** and a final-year **BSc CSE student at BRAC University**, Dhaka. I build end-to-end machine learning systems — from raw data to production-ready deployment.
+I'm **Sabuj Majumder**, an **AI Developer at Softvence Agency** and a final-year **BSc CSE student at BRAC University**, Dhaka. I build end-to-end intelligent systems — from raw data and model training to automated workflows that ship real value.
 
-My work spans **Computer Vision, NLP, Deep Learning, and RAG Systems**, with a sharp focus on building things that actually work in the real world — fast, scalable, and reliable.
+My work spans **LLM fine-tuning, n8n automation, NLP, Computer Vision, and RAG Systems**, with a sharp focus on building things that actually work in the real world — fast, scalable, and reliable.
 
 ```python
 class SabujMajumder:
     location   = "Dhaka, Bangladesh 🇧🇩"
     education  = "BSc CSE — BRAC University (2026)"
-    role       = "AI Engineer Trainee @ CHOWA GIKEN, Japan 🇯🇵"
-    focus      = ["Computer Vision", "LLM Fine-tuning",
-                  "RAG Systems", "MLOps", "NLP"]
+    current    = "AI Developer @ Softvence Agency"
+    focus      = ["LLM Fine-tuning", "n8n Automation",
+                  "RAG Systems", "Computer Vision", "NLP"]
     languages  = ["Python", "C/C++", "JavaScript", "SQL"]
     mission    = "Engineer intelligence. Ship impact."
     available  = True  # Open to collaborations & research
@@ -51,13 +55,27 @@ class SabujMajumder:
 <tr>
 <td>
 
-### 🏢 AI Engineer Trainee — CHOWA GIKEN Corporation 🇯🇵
-`September 2025 — Present · Dhaka, Bangladesh`
+### 🏢 AI Developer — Softvence Agency
+`Present · Dhaka, Bangladesh`
 
-- Breaking down client problems into clear technical goals; collecting, cleaning, and building robust **preprocessing pipelines** for computer vision tasks
-- Training, fine-tuning, and evaluating advanced **vision models**; diagnosing weaknesses and pushing performance through targeted improvements
-- Deploying optimized models with attention to **speed, reliability, and scalability**
-- Applying solid **MLOps practices** — versioning, reproducible pipelines, monitoring, and automation — to keep workflows maintainable and production-ready
+- Building and deploying **LLM fine-tuning pipelines** (full training & instruction tuning) for domain-specific tasks
+- Designing **n8n automation workflows** — API orchestration, data pipelines, and multi-step process automation
+- End-to-end **data preprocessing, cleaning, and EDA** to prepare production-grade training datasets
+- Developing **RAG systems**, NLP applications, and deep learning models tailored to client use cases
+- Model evaluation, performance benchmarking, and iterative improvement across the full ML lifecycle
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🏢 AI Engineer Trainee — CHOWA GIKEN Corporation 🇯🇵
+`September 2025 — Dhaka, Bangladesh` *(Former)*
+
+- Built robust **preprocessing pipelines** for computer vision tasks and broke down client problems into technical goals
+- Trained, fine-tuned, and evaluated advanced **vision models** (YOLO, CNN-based); diagnosed and improved performance
+- Deployed optimized models with attention to **speed, reliability, and scalability**
+- Applied **MLOps practices** — versioning, reproducible pipelines, monitoring, and automation
 
 </td>
 </tr>
