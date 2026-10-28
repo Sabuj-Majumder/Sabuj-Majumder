@@ -29,7 +29,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="Coding"/>
 
-I'm **Sabuj Majumder**, an **AI And Machine Learning Engineer** and a final-year **BSc CSE student at BRAC University**, Dhaka. I build end-to-end intelligent systems — from raw data and model training to automated workflows that ship real value.
+I'm **Sabuj Majumder**, an **AI And Machine Learning Engineer** and a **B.Sc. in  CSE graduate student at BRAC University**, Dhaka. I build end-to-end intelligent systems — from raw data and model training to automated workflows that ship real value.
 
 My work spans **LLM fine-tuning, n8n automation, NLP, Computer Vision, and RAG Systems**, with a sharp focus on building things that actually work in the real world — fast, scalable, and reliable.
 
@@ -37,7 +37,6 @@ My work spans **LLM fine-tuning, n8n automation, NLP, Computer Vision, and RAG S
 class SabujMajumder:
     location   = "Dhaka, Bangladesh 🇧🇩"
     education  = "BSc CSE — BRAC University (2026)"
-    current    = "AI Developer @ Softvence Agency"
     focus      = ["LLM Fine-tuning", "n8n Automation",
                   "RAG Systems", "Computer Vision", "NLP"]
     languages  = ["Python", "C/C++", "JavaScript", "SQL"]
