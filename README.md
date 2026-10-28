@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1400&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Developer+%40+Softvence+Agency;LLM+Fine-tuning+%7C+n8n+Automation+%7C+MLOps;Building+RAG+Systems+%26+Deep+Learning+Pipelines;BSc+CSE+%40+BRAC+University+%E2%80%94+2026;Open+to+Collaborations+%26+Research+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1400&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+ML+Engineer;LLM+Fine-tuning+%7C+n8n+Automation+%7C+MLOps;Building+RAG+Systems+%26+Deep+Learning+Pipelines;BSc+CSE+%40+BRAC+University+%E2%80%94+2026;Open+to+Collaborations+%26+Research+Opportunities" alt="Typing SVG" />
 
 <br/>
 
@@ -56,7 +56,7 @@ class SabujMajumder:
 <td>
 
 ### 🏢 AI Developer — Softvence Agency
-`Present · Dhaka, Bangladesh`
+`· Dhaka, Bangladesh`
 
 - Building and deploying **LLM fine-tuning pipelines** (full training & instruction tuning) for domain-specific tasks
 - Designing **n8n automation workflows** — API orchestration, data pipelines, and multi-step process automation
